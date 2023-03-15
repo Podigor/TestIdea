@@ -1,0 +1,10 @@
+/HelloWorld.iml
+/.iml
+/.xml
+/.idea/*.xml
+/out/production/HelloWorld/META-INF/*.MF
+/src/META-INF/*.MF
+/.idea/artifacts/HelloWorld_jar.xml
+/out/artifacts/HelloWorld_jar/HelloWorld.jar
+/.idea/.gitignore
+/.gitignore
